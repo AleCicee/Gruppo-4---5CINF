@@ -17,3 +17,5 @@ prova 2
 >>>>>>> 04a74c19e2cf42edf49f4d45f8685930eb359961
 
 ciao a tutti sono stock
+  
+  ffeex
