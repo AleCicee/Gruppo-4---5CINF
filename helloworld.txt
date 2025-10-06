@@ -21,4 +21,8 @@ ciao a tutti sono stock
 
   ciao
 
+<<<<<<< HEAD
 il gruppo 4 è il migliore
+=======
+  prova2
+>>>>>>> 3fed0620141473f6ece5e243a70d84bb56480f2f
